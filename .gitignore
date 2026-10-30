@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Dataset HIGGS (~405 MB, supera el límite de 100 MB de GitHub). El notebook lo descarga solo.
+workshop/WorkShop_2/higgs_2M.parquet
